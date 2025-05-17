@@ -1,0 +1,26 @@
+
+
+Descripción de Sistema de PC (Computador Personal):
+
+josue-hidalgo@josue-hidalgo-System-Product-Name:~/Downloads/Tarea_1$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 24.04.2 LTS
+Release:	24.04
+Codename:	noble
+
+josue-hidalgo@josue-hidalgo-System-Product-Name:~/Downloads/Tarea_1$ uname -m
+x86_64
+
+
+Descripción de Sistema de AA32:
+
+pi@raspberrypi:~ $ lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 11 (bullseye)
+Release:        11
+Codename:       bullseye
+
+pi@raspberrypi:~ $ uname -m
+aarch64
